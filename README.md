@@ -5,7 +5,7 @@
 -  ✨  My ultimate goal is to combine my love for gaming, programming and medical science to create systems to help with the recuperation and living 
        of the physically and mentally disabled.
 - 📫 How to reach me LinkedIn: https://www.linkedin.com/in/emmanuella-ogbuagu-8b91161b3 ; Email: emmanuella240698@gmail.com
-- 🐱‍💻 Check out my portfolie here: 
+- 🐱‍💻 Check out my portfolie here: https://sites.google.com/view/emmanuella-ogbuagu
 -Thanks for stopping by ❤
 <!---
 EllaRed/EllaRed is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
