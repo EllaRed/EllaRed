@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on games, all the games, let me build let me play 
 -  ✨  My ultimate goal is to combine my love for gaming, programming and medical science to create systems to help with the recuperation and living 
        of the physically and mentally disabled.
-- 📫 How to reach me LinkedIn: https://www.linkedin.com/in/emmanuella-dasilva-domingos-8b91161b3/; Email: emmanuella240698@gmail.com
+- 📫 How to reach me LinkedIn: https://www.linkedin.com/in/emmanuella-dasilva-domingos-8b91161b3/;
 - 🐱‍💻 Check out my portfolio here: https://sites.google.com/view/emmanuella-dasilva/home
 -Thanks for stopping by ❤
 <!---
